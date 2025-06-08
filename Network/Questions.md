@@ -1,4 +1,4 @@
-1. Define network
+1. Define computer network
 
 2. What do you mean by network topology, and explain types of them
 
