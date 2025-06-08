@@ -56,10 +56,8 @@
 [[T2 and T3 database architecture]]
 29. Diff between TRUNCATE and DELETE command ..
 [[Diff between TRUNCATE and DELETE]]
-30. Difference between Intension and Extension in a DataBase
-
+30. Difference between Intension and Extension in a Database
+[[Diff between Intension and Extension in Database]]
 31. Difference between share lock and exclusive lock, definition of lock
-
+[[Locks in DBMS]]
 32. What is Database Architecture? Types of Database Architecture and their differences. 
-
-33. What is database architecture?What are the different pairs of database architecture,give main point of differences among them.
