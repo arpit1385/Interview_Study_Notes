@@ -22,6 +22,7 @@
 [[Data abstraction in DBMS]]
 12. Indexing in DBMS
 [[Indexing in DBMS]]
+[[Indexing Part II]]
 13. What is DDL (Data Definition Language)
 [[DDL]]
 14. What is DML (Data Manipulation Language)
