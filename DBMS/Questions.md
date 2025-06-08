@@ -61,3 +61,5 @@
 31. Difference between share lock and exclusive lock, definition of lock
 
 32. What is Database Architecture? Types of Database Architecture and their differences. 
+
+33. What is database architecture?What are the different pairs of database architecture,give main point of differences among them.
