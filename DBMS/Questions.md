@@ -62,3 +62,5 @@
 31. Difference between share lock and exclusive lock, definition of lock
 [[Locks in DBMS]]
 32. What is Database Architecture? Types of Database Architecture and their differences. 
+[[Interview_Study_Notes/DBMS/Database Architecture|Database Architecture]]
+33. 
